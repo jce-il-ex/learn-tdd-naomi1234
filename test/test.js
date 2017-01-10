@@ -5,6 +5,8 @@ totalPayable = 1487                                 // £14.87  (fourteen pounds 
 cashPaid     = 10000                                // £100.00 (one hundred pounds)
 dfference    = 8513                                 // £85.13
 change       = [5000, 2000, 1000, 500, 10, 2, 1 ]   // £50, £20, £10, £5, 10p, 2p, 1p
+
+
 describe('Cash Register', function(){
   describe('Module C', function(){
 it('getChange(210,300) should equal [50,20,20]', function(){
