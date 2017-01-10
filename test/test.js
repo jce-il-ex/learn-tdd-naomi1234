@@ -17,6 +17,8 @@ it('getChange(486,1000) should equal [500, 10, 2, 2]', function(){
 it('getChange(1487,10000) should equal [5000, 2000, 1000, 500, 10, 2, 1 ]', function(){
     assert.deepEqual(C.getChange(1487,10000), [5000, 2000, 1000, 500, 10, 2, 1 ]);
 });*/
+assert.equal(typeof C, 'object');
+      assert.equal(typeof C.getChange, 'function');
  
     });
   });
