@@ -19,8 +19,8 @@ For students, follow these steps:
 - Excercise: HW4 - TDD
 - Name:  Naomi Young
 - ID#: 204750251
-- github username: 
-- Estimation of hours I worked on it: 
+- github username: naomi1234
+- Estimation of hours I worked on it: 4
 
 If you have an improvement suggestion or a bug fix for this tutorial, please open an issue [here](https://github.com/jce-il/learn-mocha/issues) or send a PR with a fix.
 
